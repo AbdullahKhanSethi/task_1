@@ -5,7 +5,7 @@ class BOOK{
 	private:
 		int copiessold;
 	public:
-		string title;
+		string head;
 		string author;
 		int pages;
 		BOOK(string x,string y,int z){
